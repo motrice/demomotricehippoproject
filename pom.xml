@@ -75,7 +75,7 @@
     <filesync.override>false</filesync.override>
     <maven.plugins.filesync.version>1.0.0</maven.plugins.filesync.version>
     <repo.bootstrap>true</repo.bootstrap>
-
+    <motricebpm.version>0.1.0-SNAPSHOT</motricebpm.version>
   </properties>
 
   <repositories>

@@ -13,6 +13,11 @@
   <description>Demo Motrice Hippo Project CMS</description>
   <dependencies>
     <dependency>
+      <groupId>org.motrice.bpm</groupId>
+      <artifactId>motricebpmplugin-bootstrap-configuration</artifactId>
+      <version>${motricebpm.version}</version>
+    </dependency>
+    <dependency>
       <groupId>org.onehippo.cms7.hst.dependencies</groupId>
       <artifactId>hst-repository-dependencies</artifactId>
       <type>pom</type>
